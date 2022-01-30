@@ -1,0 +1,22 @@
+.img{
+    float: left;
+}
+
+.img1{
+    float: right;
+}
+
+.img2{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.img3{
+    position: absolute;
+}
+
